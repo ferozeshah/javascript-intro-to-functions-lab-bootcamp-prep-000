@@ -35,3 +35,4 @@ function sayHiToGrandma(string) {
 }
 
 sayHiToGrandma("hello")
+shout("hello")
